@@ -1,1 +1,27 @@
+PROJECT TITLE: Lean Project: Semi-Automated Reports and Dashboards Using SharePoint and Power BI
+PROJECT LEAD: PASOS, Joe
+PROJECT ROLE: Lean Six Sigma Greenbelt
 
+PROJECT BUSINESS CASE: The current manual reporting is time-consuming and prone to errors, leading to inefficiencies and delays in decision-making. Automating these processes using SharePoint and Power BI will enhance efficiency, reduce manual errors, and provide realtime insights to stake holders. This initiative aligns with the organization's goals of streamlining operations and improving data-driven decision-making.
+
+PROJECT BACKGROUND: The current reporting process involves manual data collection and consolidation, leading to inefficiencies and delays. This project amis to address the challenges by implementing scalable and automated reporting system.
+
+PROJECT OBJECTIVES: 
+1. Auto reporting workflows to reduce processing time by 60%
+2. Develop dashboard for data-driven decision making
+3. Ensure system scalability and integration within existing infrastructure.
+
+IN-SCOPE
+1. Automating existing reporting processes and dashboard generation
+2. Integrating SharePoint and Power BI for real-time data updates
+3. Training end-users to utilize the new system effectively
+4. Establishing control measures for system sustainability
+
+OUT-OF-SCOPE
+1. Overhauling non-reporting related systems
+3. Developing customer APIs or extensive data warehousing solutions
+
+KEY DELIVERABLES
+1. Cost savings: Time saved from automation (e.g., reduction in hours spent on manual report creation, overtime).
+2. Error reduction: Fewer manual errors, leading to better decision-making.
+3. Efficiency gains: Faster decision-making due to real-time reporting and dashboards.
