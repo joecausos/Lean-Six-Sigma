@@ -1,4 +1,4 @@
-# Welcome to My Projects Repository 🚀
+# Lean Projects
 
 This repository contains a collection of my personal projects focused on continuous improvement, process optimization, and data-driven decision-making. Each project follows principles from Lean Six Sigma, Data Analytics, and various other methodologies to enhance performance and drive results.
 
